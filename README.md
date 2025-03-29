@@ -32,3 +32,14 @@ sudo chown -R your-user-name /usr/share/code
 5. Enable "Custom CSS and JS Loader" from VS Code's command dialog.
 6. Customize the css or js from this repo to make it look the way you want to, or even better, explore areas of VS Code that you want to customize.
 7. After making some changes, reload the extension (Reload Custom CSS and JS) from VS Code's command dialog.
+
+## PREVIEW
+
+![Screenshot from 2024-12-16 14-53-55](https://github.com/user-attachments/assets/2cb91f85-6043-47d1-8b45-a434c8cbd197)
+![Screenshot from 2024-12-16 14-55-47](https://github.com/user-attachments/assets/4502c16f-2a59-489e-a344-e7be9660c407)
+![Screenshot from 2024-12-16 15-01-10](https://github.com/user-attachments/assets/de63e90f-5af5-4283-ad2d-8ef0d487d97e)
+![Screenshot from 2024-12-16 15-01-49](https://github.com/user-attachments/assets/346d4028-60d7-43a5-b94e-11bea75b5820)
+
+
+
+
